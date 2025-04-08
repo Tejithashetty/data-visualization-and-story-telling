@@ -60,7 +60,7 @@ The dataset contains historical sales records from a fictional retail company. K
 
 ## Files Included
 - `Superstore.csv` — the dataset
-- `Superstore_Analysis.pdf` or `Dashboard_Screenshots/` — visual report
+- `visualization.pdf` — visual report
 - `README.md` — this file
 
 ---
