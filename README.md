@@ -73,4 +73,4 @@ Data Analyst | Power BI Enthusiast
 
 ##  Contact
 For questions or feedback, feel free to reach out via GitHub Issues or email.
-email id tejithaminnie@gmail.com
+email id team14minni@gmail.com
